@@ -1,0 +1,3866 @@
+[
+    {
+        "UID": "22BCS10005",
+        "Name": "ANKIT KUMAR RAY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10011",
+        "Name": "BADAL KUMAR RAI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10013",
+        "Name": "HARSHIT SINGH CHANDEL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10014",
+        "Name": "Bibhash Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10020",
+        "Name": "SAFAL CHAUHAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10021",
+        "Name": "CHAITNYA DHAR DWIVEDI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10024",
+        "Name": "EKTA MALL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10025",
+        "Name": "AMAN KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10036",
+        "Name": "PRATEEK PRATAP SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10040",
+        "Name": "RAHUL CHOUDHARY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10051",
+        "Name": "ANSHIKA YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10131",
+        "Name": "HARSHA YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10134",
+        "Name": "SHUBHAM KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10148",
+        "Name": "SHAMBHAVI SOMYA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10152",
+        "Name": "Ayush Manyania",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10177",
+        "Name": "SANIYA SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10181",
+        "Name": "AYUSHI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10192",
+        "Name": "YATHARTH SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10204",
+        "Name": "YATIN RANA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10205",
+        "Name": "MAYANK SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10208",
+        "Name": "MOHIT KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10212",
+        "Name": "VISHNU KUMAR SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10239",
+        "Name": "PRINCE KUMAR MISHRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10241",
+        "Name": "KETAN TEWARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10242",
+        "Name": "PRINCE RAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10248",
+        "Name": "Kumar Devashish",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10249",
+        "Name": "MANISH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10251",
+        "Name": "KAPIL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10257",
+        "Name": "DEEPANSHU KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10265",
+        "Name": "SHUBHASHISH BHATTACHARYA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10268",
+        "Name": "SURBHI PRIYA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10270",
+        "Name": "DIVYANSHU PANDEY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10273",
+        "Name": "VANSH BANSAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10284",
+        "Name": "PRADEEP SAHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10286",
+        "Name": "NITIN KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10317",
+        "Name": "MOHIT SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10322",
+        "Name": "AYUSH SAH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10325",
+        "Name": "SOYAM KUMAR GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10339",
+        "Name": "Aditya Thakur",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10353",
+        "Name": "shobhit sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10370",
+        "Name": "ANURAG KAUSHIK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10371",
+        "Name": "PIYUSH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10379",
+        "Name": "Aarushi Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10403",
+        "Name": "BHASKAR KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10420",
+        "Name": "Tanishka Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10425",
+        "Name": "RICHA SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10429",
+        "Name": "Kushagar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10446",
+        "Name": "DEVENDRA PRATAP SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10447",
+        "Name": "HITESH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10448",
+        "Name": "Pratik",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10456",
+        "Name": "AYUSH JHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10468",
+        "Name": "KHUSHI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10476",
+        "Name": "ANSHUL JAIN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10482",
+        "Name": "Amrit Raj",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10509",
+        "Name": "Neha",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10562",
+        "Name": "ASHISH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10575",
+        "Name": "Panchraj Singh Parihar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10652",
+        "Name": "TEJAS GOYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10665",
+        "Name": "ANJALI KUMARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10666",
+        "Name": "MANSI SHUKLA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10669",
+        "Name": "Ashutosh Sharan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10670",
+        "Name": "Aditi Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10675",
+        "Name": "RAJ SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10684",
+        "Name": "Omkar Chaturvedi",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10708",
+        "Name": "Vaibhav Jha",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10730",
+        "Name": "YASH DIXIT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10761",
+        "Name": "SURAJ MISHRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10763",
+        "Name": "AWANISH SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10785",
+        "Name": "Lalit Raghav",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10796",
+        "Name": "LOVISH BANSAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-815",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS10831",
+        "Name": "Harshit Kumar Mehta",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10856",
+        "Name": "ARMAAN SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10862",
+        "Name": "RITNESH KR SRIVASTAVA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10878",
+        "Name": "SURYANSH MISHRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10914",
+        "Name": "KAVYA SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10946",
+        "Name": "TAMANNA SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10990",
+        "Name": "KURUMADDALI HARDHIK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS10997",
+        "Name": "Aditi Mahajan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11000",
+        "Name": "YASHIKA MAHAJAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11027",
+        "Name": "NITIN SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11138",
+        "Name": "TARASHA NIRMAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11140",
+        "Name": "VISHAL KUMAR MISHRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11193",
+        "Name": "Ayush Kumar Mayank",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11237",
+        "Name": "ADITYA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11249",
+        "Name": "AASTHA GOHEL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11308",
+        "Name": "CHIRAU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11332",
+        "Name": "Sanskar Srivastava",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11338",
+        "Name": "ABHISHEK SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11354",
+        "Name": "ADITYA KUMAR GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11411",
+        "Name": "HIMANSHU RAWAT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11442",
+        "Name": "Arman Gakhar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11444",
+        "Name": "AAYUSH TEWARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11447",
+        "Name": "VIPUL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11614",
+        "Name": "MS. PRACHI SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11637",
+        "Name": "NANDINI NANDWANI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11648",
+        "Name": "NISHANT KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11742",
+        "Name": "SAMBHAV SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11743",
+        "Name": "SHASHWAT SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11750",
+        "Name": "GARV GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11753",
+        "Name": "AMAN KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11764",
+        "Name": "Sagar Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11777",
+        "Name": "Nainsi",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11794",
+        "Name": "RAUNAK SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11815",
+        "Name": "ANKUSH THAKUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11821",
+        "Name": "ASHU AGRAHARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11822",
+        "Name": "Kaushal Kumar Srivastava",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11837",
+        "Name": "CHITRANSH GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11838",
+        "Name": "Rohit Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11915",
+        "Name": "Anshul Verma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11917",
+        "Name": "SAURABH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11939",
+        "Name": "ABHAY KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11971",
+        "Name": "Raja Babu",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11983",
+        "Name": "ADITYA NEGI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12004",
+        "Name": "Ansh Setia",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12005",
+        "Name": "KOMAL SAHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12022",
+        "Name": "SUJOY RAY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12030",
+        "Name": "Purnima Yadav",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12042",
+        "Name": "DIPESH GOYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12138",
+        "Name": "Harshit Raj",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12147",
+        "Name": "NIVEDITA SRIVASTAVA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12164",
+        "Name": "YUVRAJ SINGH THAKUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12176",
+        "Name": "Siddhi Gupta",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12181",
+        "Name": "Rishabh Bhardwaj",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12184",
+        "Name": "SHIVAM GAUTAM",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12198",
+        "Name": "DEBJANI MALLIK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12209",
+        "Name": "ARYAN MEHTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12228",
+        "Name": "JEETENDRA KUMAR PATEL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12229",
+        "Name": "Ayush Agarwala",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12247",
+        "Name": "HEMANT VYAS",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12253",
+        "Name": "HARSH GARG",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12263",
+        "Name": "Shrawan Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12266",
+        "Name": "MANJULA JAISWAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12271",
+        "Name": "AYUSH SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12345",
+        "Name": "ARJUN DHIMAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12355",
+        "Name": "UTTAM BANSAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12388",
+        "Name": "MILAN RAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12395",
+        "Name": "KANISHK VERMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12410",
+        "Name": "PRATEEK SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12456",
+        "Name": "Himanshu",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12468",
+        "Name": "ANUP KUMAR SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-816",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS12484",
+        "Name": "Akshat Shukla",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12498",
+        "Name": "HARSH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12499",
+        "Name": "AYUSH SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12526",
+        "Name": "ADARSH SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12569",
+        "Name": "SATYA PRAKASH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12580",
+        "Name": "DEEP SINHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12582",
+        "Name": "AMAN RAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12610",
+        "Name": "ABHI GROVER",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12645",
+        "Name": "AYUSHMAN SAHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12649",
+        "Name": "GURLIN KAUR SANDHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12659",
+        "Name": "KUSHAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12706",
+        "Name": "KAVYA RAWAT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12708",
+        "Name": "KARAN NAYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12710",
+        "Name": "Ishank Kaushik",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12720",
+        "Name": "SOMESH RAMAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12724",
+        "Name": "ANSH KUMAR GILHOTRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12754",
+        "Name": "DEEPIKA RANI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12776",
+        "Name": "SAGAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12859",
+        "Name": "VIVEK KUMAR SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12876",
+        "Name": "VATSALYA MISHRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12898",
+        "Name": "KARANPREET SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12936",
+        "Name": "KAREENA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12937",
+        "Name": "NISHTHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12940",
+        "Name": "MAHIKA SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12949",
+        "Name": "ANKUR PRAJAPATI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12963",
+        "Name": "SHIVAM",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12974",
+        "Name": "ABHINAV RAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS12982",
+        "Name": "NIRMIT KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13015",
+        "Name": "KASHISH GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13026",
+        "Name": "RAVI KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13048",
+        "Name": "SIDHARTH JAIN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13061",
+        "Name": "Achintya Chauhan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13077",
+        "Name": "RIDAM BHARDWAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13100",
+        "Name": "RITIK RAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13106",
+        "Name": "Atul",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS13143",
+        "Name": "Murli Manohar Yadav",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13149",
+        "Name": "Gurvinder Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13157",
+        "Name": "Jai Vishav Bhaskar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13173",
+        "Name": "SARGUN KAUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13241",
+        "Name": "PURWA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13276",
+        "Name": "Anshul Gaur",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13477",
+        "Name": "MOHIT SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13522",
+        "Name": "Kaustubh Pandey",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13534",
+        "Name": "NIKITA KUMARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13553",
+        "Name": "MONISH SOLANKI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13562",
+        "Name": "RAGHAV SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13583",
+        "Name": "SWATI KUMARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13584",
+        "Name": "GAURAV RAJ SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13586",
+        "Name": "ROHIT SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13616",
+        "Name": "RISHAV ANAND",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13634",
+        "Name": "NIKHIL ANAND",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13635",
+        "Name": "DILIP KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13674",
+        "Name": "AKASH GOYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13680",
+        "Name": "Abhishek",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13702",
+        "Name": "ABHINESH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13743",
+        "Name": "KHUSHI TOMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13764",
+        "Name": "AARYAN VED",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13810",
+        "Name": "Ankit kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13831",
+        "Name": "Indrarati Jana",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13843",
+        "Name": "SHIVAM SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13878",
+        "Name": "SELIM JAHANGIR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13929",
+        "Name": "ABHISHEK BHATT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS13967",
+        "Name": "Shoyab",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14000",
+        "Name": "JATIN GAUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14081",
+        "Name": "MOHAMMAD AMMAR BANDAY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14093",
+        "Name": "AMAN SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14099",
+        "Name": "Roshani",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14100",
+        "Name": "SAKSHAM",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14106",
+        "Name": "RAKSHIT JAIN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14112",
+        "Name": "YUVRAJ SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-817",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14115",
+        "Name": "PRAMOD KUMAR SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14121",
+        "Name": "BAVNEET KAUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14137",
+        "Name": "NEERAJ JAISWAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14141",
+        "Name": "Kushagra Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14191",
+        "Name": "MADHAV NAGPAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14197",
+        "Name": "KALPANA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14205",
+        "Name": "HEEMAAL JAGLAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14211",
+        "Name": "HARSH KUMAR YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14252",
+        "Name": "Yug",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14257",
+        "Name": "SUKHMANDEEP KAUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14259",
+        "Name": "DESHVEER SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14268",
+        "Name": "AVNEESH KUMAR AWASTHI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14382",
+        "Name": "Ananya Goel",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14459",
+        "Name": "SWASTIKA THAKUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14528",
+        "Name": "D RITHIKA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14583",
+        "Name": "ADITYA NANDAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14585",
+        "Name": "KHUSHMN SANGHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14622",
+        "Name": "DHEERAJ JOSHI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14634",
+        "Name": "AMAN KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14636",
+        "Name": "Kashish Thakur",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14648",
+        "Name": "HIMANSHU JOSHI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14663",
+        "Name": "Abhay Kejriwal",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14678",
+        "Name": "SANDEEP VASHISHTHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14694",
+        "Name": "PARKHI ACCHREJA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14695",
+        "Name": "ADITH M R",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14710",
+        "Name": "AKARSHAN JANGID",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14730",
+        "Name": "AVNEET KAUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14737",
+        "Name": "ASHISH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14743",
+        "Name": "KAUSHAL SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14764",
+        "Name": "MAHAK NIGAM",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14765",
+        "Name": "Ansh Gupta",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14777",
+        "Name": "Shivam Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14778",
+        "Name": "Rachana Sahu",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14793",
+        "Name": "Saurabh kumar sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14796",
+        "Name": "SUHAIL SAMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS14802",
+        "Name": "SAKSHAM MEHTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14804",
+        "Name": "Jeet Bharti",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14812",
+        "Name": "Satyam Kumar Thakur",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14821",
+        "Name": "EKTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14826",
+        "Name": "VISHAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14829",
+        "Name": "Rashi Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14831",
+        "Name": "Jain Aman",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14842",
+        "Name": "GURJOT SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14843",
+        "Name": "GAGANJOT SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14851",
+        "Name": "Sargam Anand",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14856",
+        "Name": "jiya",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14860",
+        "Name": "Urvi Jindal",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14881",
+        "Name": "NAMAN SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14899",
+        "Name": "Diksha",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14912",
+        "Name": "Manjot singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14925",
+        "Name": "Harman singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14927",
+        "Name": "ISHANK SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14944",
+        "Name": "TARIGOPULA MANIKANTESWARA REDDY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14967",
+        "Name": "VINOD KUMAR SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14989",
+        "Name": "CHAVALI SRI GOWRI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS14999",
+        "Name": "KRISHNA GOYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15019",
+        "Name": "Ashu",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15027",
+        "Name": "UTKARSH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15037",
+        "Name": "Priyanshu Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15044",
+        "Name": "AKASH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15046",
+        "Name": "Priyanshu Prajapati",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15051",
+        "Name": "Keshav Laddha",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15064",
+        "Name": "ABHINAV ANAND",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15073",
+        "Name": "Himanshu Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15075",
+        "Name": "Rahul Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15089",
+        "Name": "ANUSHKA JAISWAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15095",
+        "Name": "DIKSHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15108",
+        "Name": "Sumit kumar pandey",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15113",
+        "Name": "NITAKSHI CHAUHAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15126",
+        "Name": "ABHISHEK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-818",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16431",
+        "Name": "Garima Mittal",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16433",
+        "Name": "Rohan Kumar Jha",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16435",
+        "Name": "Aditya Pratap Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16437",
+        "Name": "Gaurav Goyal",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16439",
+        "Name": "Tejveer Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16442",
+        "Name": "Tuntun Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16463",
+        "Name": "KRISHNA RAZDAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16466",
+        "Name": "Yogesh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16467",
+        "Name": "Sinku Kumawat",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16468",
+        "Name": "VANSH BHUSHAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16470",
+        "Name": "Piyush Jain",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16489",
+        "Name": "SNEHA NEGI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16506",
+        "Name": "ADITI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16524",
+        "Name": "ANURAG KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16539",
+        "Name": "MANOJ KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16545",
+        "Name": "RASHUL RAJPUT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16549",
+        "Name": "KUNAL SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16558",
+        "Name": "MEHAK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16565",
+        "Name": "VIVEK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16577",
+        "Name": "Muskan patel",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16582",
+        "Name": "TUSHAR SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16583",
+        "Name": "Shivam sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16587",
+        "Name": "dipender pilania",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16595",
+        "Name": "arpit",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16597",
+        "Name": "Ayush Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16605",
+        "Name": "KUMAR NISHANT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16609",
+        "Name": "Om Mishra",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16612",
+        "Name": "HARSHIT GOYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16614",
+        "Name": "SUMIT KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16630",
+        "Name": "SUMANPREET KAUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16632",
+        "Name": "Anshul Gautam",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16635",
+        "Name": "KIRAN PRAKASH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16638",
+        "Name": "sushma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16651",
+        "Name": "Sudhanshu Ranjan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16667",
+        "Name": "Vineet Kaur",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16670",
+        "Name": "Niharika singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16673",
+        "Name": "GHANSHYAM",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16677",
+        "Name": "GOURAV MOR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16679",
+        "Name": "Radheshyam",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16693",
+        "Name": "mohit",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16698",
+        "Name": "SAGAR GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16706",
+        "Name": "Arpit Mahajan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16713",
+        "Name": "KARANVEER MITTAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16714",
+        "Name": "VAIBHAV SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16724",
+        "Name": "ADITYA VYAS",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16727",
+        "Name": "SAKSHAM SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16728",
+        "Name": "MOHAMMAD AQDAS",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16731",
+        "Name": "ADVIT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16732",
+        "Name": "Kumar Chitranshu",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16735",
+        "Name": "BHAVIKA RAWAT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16738",
+        "Name": "Agraj Chandra",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16750",
+        "Name": "ARYAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16761",
+        "Name": "Parva Rastogi",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16762",
+        "Name": "SAMPARK GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16793",
+        "Name": "RAGHAV KOHLI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16803",
+        "Name": "Abhinav Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16805",
+        "Name": "Anshul chauhan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16821",
+        "Name": "TANISHK RAUTELA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16824",
+        "Name": "TUSHAR KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16826",
+        "Name": "Kaveender Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16838",
+        "Name": "Shaswat Anand",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16841",
+        "Name": "ANANYA JASWAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16855",
+        "Name": "PARI SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16868",
+        "Name": "RAHUL KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16878",
+        "Name": "LAKSHAY KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16880",
+        "Name": "ANUSHKA KUMARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16922",
+        "Name": "Vaibhavi Shreya",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16925",
+        "Name": "Bharat bhushan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16929",
+        "Name": "DEVANSH SATSANGI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16932",
+        "Name": "ANIYA KUMARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-819",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS17266",
+        "Name": "PRIYAMANSHU KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17268",
+        "Name": "ABHISHEK SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17270",
+        "Name": "UMESH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17272",
+        "Name": "RAHUL SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17278",
+        "Name": "KUSHAL SONI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17279",
+        "Name": "HEENA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17280",
+        "Name": "PRITAM KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17289",
+        "Name": "SHAGUN RANA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17294",
+        "Name": "ANANT KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17296",
+        "Name": "SAKSHAM",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17299",
+        "Name": "KAUSHAL KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17302",
+        "Name": "Aditya Khurana",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17303",
+        "Name": "ABHAY KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS17304",
+        "Name": "Dheeraj Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50080",
+        "Name": "VIKASH JANGU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50082",
+        "Name": "Satvik Shekhar Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50083",
+        "Name": "MANISH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50085",
+        "Name": "SHIV KUMAR VERMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50087",
+        "Name": "DEEPANSHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50090",
+        "Name": "NIKHIL KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50091",
+        "Name": "ASHISH PATHAK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50095",
+        "Name": "RISHABH JAIN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50096",
+        "Name": "AAKARSH SRIVASTAVA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50097",
+        "Name": "ANAND KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50098",
+        "Name": "ARYAN BULANDI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50102",
+        "Name": "HRISHABH GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50104",
+        "Name": "AROOKH KHAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50112",
+        "Name": "DIVYANSHU RAWAT",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50113",
+        "Name": "KAPIL GANGWAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50114",
+        "Name": "SHRIRAMOJ OM BRAHMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50122",
+        "Name": "ANUP YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50124",
+        "Name": "NAMAN GOYAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50125",
+        "Name": "PRINCE",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11501",
+        "Name": "KARAN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS50127",
+        "Name": "RANBIR SINGH BHULLAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50128",
+        "Name": "DIPANSHU GARG",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50130",
+        "Name": "SACHIN YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50131",
+        "Name": "SUMIT KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50137",
+        "Name": "NIKHIL KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50138",
+        "Name": "HARIBHA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50139",
+        "Name": "AARJU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50142",
+        "Name": "AKASH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50143",
+        "Name": "AMAN PATEL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50144",
+        "Name": "POOJA DUBEY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50146",
+        "Name": "BADAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50147",
+        "Name": "SANSKRITI ANAND",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50149",
+        "Name": "MUKESH ARYA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50150",
+        "Name": "ASHISH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50153",
+        "Name": "GAURAV JANGIR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50155",
+        "Name": "SHIVPRATAP SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50158",
+        "Name": "SUNIL KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50161",
+        "Name": "VISHAL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50162",
+        "Name": "HIMANSHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50163",
+        "Name": "SHUBHAM KUMAR YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50166",
+        "Name": "SHURYANSH GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50167",
+        "Name": "AYUSH KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50168",
+        "Name": "ABHISHEK KUMAR MISHRA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50173",
+        "Name": "BIPANSHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50175",
+        "Name": "ALIZA ASIF",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50181",
+        "Name": "RAHUL KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50182",
+        "Name": "PRAKASH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50184",
+        "Name": "ANAND DWIVEDI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50185",
+        "Name": "YASH GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50186",
+        "Name": "ANUKUL",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50188",
+        "Name": "SACHIN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50018",
+        "Name": "ABHIMANYU KHEWAL",
+        "Batch": 2022,
+        "ProgramCode": "BI519",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS50126",
+        "Name": "ARYAN SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_TPP-820",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS15976",
+        "Name": "SAKSHAM RAJAIN",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS15988",
+        "Name": "PRANJAL RATHORE",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS15994",
+        "Name": "Pranav saini",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16004",
+        "Name": "SAJIN SHIBU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16023",
+        "Name": "AYUSH PATHANIA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16030",
+        "Name": "DIPANSHU SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16043",
+        "Name": "MOHD AREEB",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16053",
+        "Name": "Harshit arya",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16057",
+        "Name": "PRINCE TANWAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16082",
+        "Name": "DEVENSH YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16091",
+        "Name": "Ankur Anand",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16095",
+        "Name": "Masud Alom",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16124",
+        "Name": "Vikash Upadhyay",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16145",
+        "Name": "Ayushi",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16152",
+        "Name": "MAYAASH YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16155",
+        "Name": "YOGESH SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16157",
+        "Name": "YASH RANA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16158",
+        "Name": "Divy Ashish sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16166",
+        "Name": "himanshu",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16171",
+        "Name": "SHUBHAM GUPTA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16246",
+        "Name": "KOMPALLI SATHWIK",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16255",
+        "Name": "HARSH RAJ",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16264",
+        "Name": "Yadwinder Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16269",
+        "Name": "KARANVIR SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16273",
+        "Name": "LAKSHYA RANA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16280",
+        "Name": "ADITYA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16284",
+        "Name": "Dishant Goyal",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16287",
+        "Name": "ADARSH KUMAR YADAV",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16321",
+        "Name": "Niskarsh Sharma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16353",
+        "Name": "SATYARTH PRAKASH SHUKLA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16388",
+        "Name": "Lakshaya sihag",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16401",
+        "Name": "AMAN THAKUR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16420",
+        "Name": "Prachetas Singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS11490",
+        "Name": "DIVESH SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "A"
+    },
+    {
+        "UID": "22BCS16427",
+        "Name": "Abhinav",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16443",
+        "Name": "DEEPANSHU",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16447",
+        "Name": "PRANSHU JOSHI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16472",
+        "Name": "PARUL SAINI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16474",
+        "Name": "Avi Avinav",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16486",
+        "Name": "AYUSH TIWARI",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16488",
+        "Name": "AVREET SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16490",
+        "Name": "Roshan Kumar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16494",
+        "Name": "Preetam Yadav",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16501",
+        "Name": "GURRAM VIVEK VINAYAK REDDY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16504",
+        "Name": "Hardik Jhamb",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16514",
+        "Name": "GAGAN CHAUDHARY",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16525",
+        "Name": "VISHWANATH ANAND",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16540",
+        "Name": "Madanlal choudhary",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16543",
+        "Name": "Anubhav Verma",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16588",
+        "Name": "Arjun Panda",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16599",
+        "Name": "RAMAN SIHAG",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16621",
+        "Name": "Akshay",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16637",
+        "Name": "Khushi khandelwal",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16646",
+        "Name": "SAARTHAK B SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16661",
+        "Name": "Parth Arora",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16664",
+        "Name": "KRISHAN MURARI SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16666",
+        "Name": "Anand Raj",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16668",
+        "Name": "JAYANT SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16692",
+        "Name": "PARDEEP SINGH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16695",
+        "Name": "PRATEEK SHARMA",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16703",
+        "Name": "Harshvaan singh",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16710",
+        "Name": "Tushar",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16720",
+        "Name": "MANISH",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16729",
+        "Name": "Aryan",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS16743",
+        "Name": "ROHAN DAGAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    },
+    {
+        "UID": "22BCS11601",
+        "Name": "AJAY KUMAR",
+        "Batch": 2022,
+        "ProgramCode": "CS201",
+        "Section": "22BCS_NTPP-901",
+        "Group": "B"
+    }
+]
