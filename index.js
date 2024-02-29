@@ -15,7 +15,7 @@ app.use("/api/students", student_router);
 
 const start = async () => {
   await connectDB(process.env.MONGODB_URL);
-  app.listen(PORT, "0.0.0.0", () => {
+  app.listen(PORT, () => {
     console.log(`Listening on ${PORT}`);
   });
 };
